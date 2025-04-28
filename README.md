@@ -1,0 +1,1 @@
+# it5001-lab-5b-map-filter-reduce-solved
